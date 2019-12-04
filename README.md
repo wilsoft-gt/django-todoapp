@@ -4,14 +4,14 @@ This is a simple ToDo App powered by django. On the main menu you can create the
 Currently it only works best on phones but I'm planing to make it for big screens. I'm planing to add an option to create users as well.
 
 ## Screenshots
-This is the main screen
+<p>This is the main screen</p>
 ![Main Screen](resources/mainmenu.png)
 
-This is the menu
+<p>This is the menu</p>
 ![Main Screen](resources/displayedmenu.png)
 
-This is the option to create a new task
+<p>This is the option to create a new task</p>
 ![Main Screen](resources/addnewlist.png)
 
-This is the view for the sub tasks, the menu and the options
+<p>This is the view for the sub tasks, the menu and the options</p>
 ![Main Screen](resources/subtasks.png)
